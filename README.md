@@ -177,18 +177,7 @@ MongoDB stores ticket records, messages, and activity history. Mongoose schemas 
 - Activity records provide a history of changes to tickets.
 - Dashboard statistics are calculated from stored ticket records.
 
-## Known Limitations
 
-Document any limitations that remain in the submitted version. Examples may include authentication, role-based access control, pagination, automated tests, or production deployment, if these are not implemented.
 
-## Security Notes
 
-- Keep database credentials in environment variables.
-- Do not commit `.env` files containing secrets.
-- Ensure internal notes are excluded from customer-facing responses.
-- Validate incoming requests on the backend.
-- Configure CORS for the intended frontend origin.
 
-## AI Assistance
-
-Disclose any AI tools used during development and briefly describe how they were used. Review and test all generated code before submission.
