@@ -93,7 +93,7 @@ Adjust this structure to match the actual files in your repository.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/NikkySoam/Support-desk
 cd support-desk
 ```
 
