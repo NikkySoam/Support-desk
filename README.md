@@ -106,7 +106,7 @@ npm install
 
 ### 3. Configure backend environment variables
 
-Create a `.env` file inside the `server` directory:
+Create a `.env` file inside the `backend` directory:
 
 ```env
 PORT=5000
@@ -118,7 +118,7 @@ Replace the database connection string with your own value. Never commit real cr
 
 ### 4. Start the backend
 
-Use the development command configured in `server/package.json`, for example:
+Use the development command configured in `backend/package.json`, for example:
 
 ```bash
 npm run dev
